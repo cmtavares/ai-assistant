@@ -20,7 +20,7 @@ This project was made through this <a href="https://www.youtube.com/watch?v=Vo7O
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/cmtavares/ai-assistant-java
+git clone https://github.com/cmtavares/ai-assistant-java.git
 ```
 
 2. Install dependencies with Maven
@@ -101,10 +101,3 @@ Synopsis: A jazz musician and an aspiring actress fall in love while pursuing th
 ---
 
 ```
-
-
-When contributing to this project, please follow the existing code style, [commit conventions](https://www.conventionalcommits.org/en/v1.0.0/), and submit your changes in a separate branch.
-
-
-
-
