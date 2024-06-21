@@ -33,8 +33,6 @@ git clone https://github.com/cmtavares/ai-assistant-java.git
 4. Download model Google's Gemma 2B Instruct
 5. Start LM Server
 
-<img src=".github/lm-studio-print.png"/>
-
 ## API Endpoints
 The API provides the following endpoints:
 
