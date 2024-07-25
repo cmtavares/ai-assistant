@@ -19,15 +19,15 @@ This project was made through this <a href="https://www.youtube.com/watch?v=Vo7O
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/cmtavares/ai-assistant-java.git
-```
+  ```bash
+  git clone https://github.com/cmtavares/ai-assistant-java.git
+  ```
 
 2. Install dependencies with Maven
 
-```shell
-mvn clean install
-```
+  ```shell
+  mvn clean install
+  ```
 
 ## Usage
 
