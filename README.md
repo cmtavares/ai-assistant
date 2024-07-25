@@ -25,6 +25,10 @@ git clone https://github.com/cmtavares/ai-assistant-java.git
 
 2. Install dependencies with Maven
 
+```shell
+mvn clean install
+```
+
 ## Usage
 
 1. Start the application with Maven
